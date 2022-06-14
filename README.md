@@ -1,5 +1,5 @@
 # Letter-Learning-Game
-# A game to teach children letters and combine them with words with the sound of pictures's.
+# A game to teach children letters and combine them with words with the sounds of pictures's.
                                                      
 # We ranked 1st place out of +105 team from different cities.                                                           
   Date: 18.09.2021                      
