@@ -10,5 +10,5 @@
   It was developed by me and my teammate for "the Upper Egypt Cities Competition for Educational Programming Projects".
 programming tools that used:                                                     
 -HTML(HyperText Markup Language)                                                 
--CSS(HyperText Markup Language)                                                     
+-CSS(Cascading Style Sheets)                                                     
 -JavaScript (Programming language)
