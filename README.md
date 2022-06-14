@@ -3,9 +3,7 @@
                                                      
 # We ranked 1st place out of +105 team from different cities.                                                           
   Date: 18.09.2020                      
- team member: 
-- Mahmoud Gamal                                                            
- - Mostafa Gamal                                                      
+By: Mostafa Gamal                                                                                                                  
   It was developed by me and my teammate for "the Upper Egypt Cities Competition for Educational Programming Projects".
 programming tools that used:                                                     
 -HTML (HyperText Markup Language)                                                 
