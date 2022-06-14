@@ -1,9 +1,9 @@
 # Letter-Learning-Game
-A game to teach children letters and combine them with words with the sound of the word's pronunciation
+# A game to teach children letters and combine them with words with the sound of the word's pronunciation.
                                                      
 we ranked 1st place out of +105 team.                                                           
-  Date: 18.12.2021                      
-  Round : Second Round                                                            
+  Date: 18.9.2021                      
+  Round : First Round                                                            
  team member: 
 - Mahmoud Gamal                                                            
  - Mostafa Gamal                                                      
