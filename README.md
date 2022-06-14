@@ -2,8 +2,7 @@
 # A game to teach children letters and combine them with words with the sounds of pictures's.
                                                      
 # We ranked 1st place out of +105 team from different cities.                                                           
-  Date: 18.09.2021                      
-  Round : First Round                                                            
+  Date: 18.09.2020                      
  team member: 
 - Mahmoud Gamal                                                            
  - Mostafa Gamal                                                      
